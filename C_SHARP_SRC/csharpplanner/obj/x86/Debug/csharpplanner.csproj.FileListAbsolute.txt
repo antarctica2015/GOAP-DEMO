@@ -1,0 +1,5 @@
+C:\code\csharpplanner_new\csharpplanner\csharpplanner\bin\Debug\csharpplanner.exe
+C:\code\csharpplanner_new\csharpplanner\csharpplanner\bin\Debug\csharpplanner.pdb
+C:\code\csharpplanner_new\csharpplanner\csharpplanner\obj\x86\Debug\csharpplanner.csprojAssemblyReference.cache
+C:\code\csharpplanner_new\csharpplanner\csharpplanner\obj\x86\Debug\csharpplanner.exe
+C:\code\csharpplanner_new\csharpplanner\csharpplanner\obj\x86\Debug\csharpplanner.pdb
