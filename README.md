@@ -1,7 +1,7 @@
 GOAP-DEMO
 -----------------------
 
-![Screenshot](https://github.com/antarctica2015/GOAP-DEMO/blob/main/images/GOAP.png)
+![Screenshot](https://github.com/antarctica2015/GOAP-DEMO/blob/main/images/GOAP.PNG)
 
 ### Information:
 This is a couple of WIP Goal-Oriented Action Planning Demos based on Jeff Orkin's Work for F.E.A.R.
